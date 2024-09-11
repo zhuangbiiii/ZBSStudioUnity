@@ -6,6 +6,30 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  m_configObjects: {}
+    path: Assets/AR/overview.unity
+    guid: 6336fd9b477df024a9a74cfa5f7941c9
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1ab7bd5c791a7464b9e808fd9911e037,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: be49f8079926c124abc462748635e0c8,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 2e1a2a451f059324aa798de86080b32b,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: d4eb1aaf47311b643afe6383503dafb7,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 53169b2cb78c5274fb0fee259ebfcc38,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: e33128e2ea14b784f9ff8f0a59217894,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1155a20228a00294a838fd5dd5c81f08,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c92b837ca9a9cca45a7c32b88e6c2c92,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 40b8aa6726d19b14eb46f3c0e669cf9a,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: e33128e2ea14b784f9ff8f0a59217894,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1155a20228a00294a838fd5dd5c81f08,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c92b837ca9a9cca45a7c32b88e6c2c92,
+      type: 2}
